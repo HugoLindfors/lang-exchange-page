@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,a as o}from"./index.20b76a7a.js";const t={},n={class:"admin"},_=o("h2",null,"Admin",-1),a=[_];function r(d,i){return s(),c("div",n,a)}const m=e(t,[["render",r]]);export{m as default};
